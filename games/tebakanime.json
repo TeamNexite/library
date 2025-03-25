@@ -36,17 +36,14 @@
     { "img": "https://files.catbox.moe/4gk1f7.png",
         "title": "Mashle"
         },
-    {
-      img: "https://files.catbox.moe/kjisyh.jpg",
-      title: "Isekai Nonbiri Nouka",
+    { "img": "https://files.catbox.moe/kjisyh.jpg",
+        "title": "Isekai Nonbiri Nouka",
     },
-    {
-      img: "https://files.catbox.moe/6adv3x.jpg",
-      title: "Classroom of the Elite",
+    { "img": "https://files.catbox.moe/6adv3x.jpg",
+        "title": "Classroom of the Elite",
     },
-    {
-      img: "https://files.catbox.moe/boh0z0.jpg",
-      title: "Kusuriya no Hitorigoto",
+    { "img": "https://files.catbox.moe/boh0z0.jpg",
+        "title": "Kusuriya no Hitorigoto",
     },
     { "img": "https://files.catbox.moe/zeufc4.jpg",
         "title": "Sosou no Frieren"
@@ -172,7 +169,7 @@
         "title": "Jujutsu Kaisen"
         },
     { "img": "https://images6.alphacoders.com/971/971577.jpg",
-        "name": "My Hero Academia"
+        "title": "My Hero Academia"
         },
     { "img": "https://images3.alphacoders.com/135/135637.jpg",
         "title": "Naruto Shippuden"
