@@ -1,0 +1,507 @@
+[
+  {
+    "index": 0,
+    "soal": "Saya harus memiliki keterampilan mengolah tubuh agar melahirkan gerakan-gerakan indah",
+    "jawaban": "penari"
+  },
+  {
+    "index": 1,
+    "soal": "Saya bekerja menggunakan palu, dalam bekerja saya harus memutuskan masalah dengan adil",
+    "jawaban": "hakim"
+  },
+  {
+    "index": 2,
+    "soal": "Tugas saya sering berada didepan kelas, tempat kerja saya di perguruan tinggi",
+    "jawaban": "dosen"
+  },
+  {
+    "index": 3,
+    "soal": "Saya biasa berkelana dari satu tempat ke tempat yang lain, Saya mengendarai sebuah alat transportasi jalur udara.",
+    "jawaban": "pilot"
+  },
+  {
+    "index": 4,
+    "soal": "Pekerjaan saya sangat penting bagi negara. Saya menjaga negara dari ancaman dan serangan musuh, Saya ahli dalam senjata.",
+    "jawaban": "tentara"
+  },
+  {
+    "index": 5,
+    "soal": "Saya bekerja di bidang kesehatan yang berfokus pada kesehatan ibu dan anak. Saya biasa membantu ibu yang akan melahirkan.",
+    "jawaban": "bidan"
+  },
+  {
+    "index": 6,
+    "soal": "Pekerjaan saya di bidang rancang bangun, saya pandai merancang bangunan seperti rumah yang memiliki desain yang estetik",
+    "jawaban": "arsitek"
+  },
+  {
+    "index": 7,
+    "soal": "Tugas saya adalah memasak di Restoran, membuat kreasi masakan, memilih bahan-bahan yang akan di masak sehingga menghasilkan masakan dengan standar tinggi.",
+    "jawaban": "chef"
+  },
+  {
+    "index": 8,
+    "soal": "Untuk memperoleh pekerjaan ini saya harus lulus sarjana farmasi, pekerjaan utama saya adalah memberikan obat sesuai resep dokter.",
+    "jawaban": "apoteker"
+  },
+  {
+    "index": 9,
+    "soal": "Saya bekerja mengarahkan banyak orang, pekerjaan saya juga berhubungan dengan penulis scenario, hasil kerja saya bisa dinikmati di televisi atau bioskop.",
+    "jawaban": "sutradara"
+  },
+  {
+    "index": 10,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu orang mengelola uang mereka.",
+    "jawaban": "akuntan"
+  },
+  {
+    "index": 11,
+    "soal": "Tugas saya adalah memperbaiki kerusakan pada mesin dan peralatan.",
+    "jawaban": "montir"
+  },
+  {
+    "index": 12,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu anak-anak belajar.",
+    "jawaban": "guru"
+  },
+  {
+    "index": 13,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah mental.",
+    "jawaban": "psikolog"
+  },
+  {
+    "index": 14,
+    "soal": "Tugas saya adalah membuat desain grafis untuk berbagai keperluan.",
+    "jawaban": "desainer grafis"
+  },
+  {
+    "index": 15,
+    "soal": "Saya bekerja di bidang hukum, saya membantu orang dengan masalah hukum.",
+    "jawaban": "pengacara"
+  },
+  {
+    "index": 16,
+    "soal": "Tugas saya adalah memeriksa kesehatan hewan.",
+    "jawaban": "dokter hewan"
+  },
+  {
+    "index": 17,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat lunak.",
+    "jawaban": "pengembang perangkat lunak"
+  },
+  {
+    "index": 18,
+    "soal": "Tugas saya adalah membuat laporan keuangan untuk perusahaan.",
+    "jawaban": "analisis keuangan"
+  },
+  {
+    "index": 19,
+    "soal": "Saya bekerja di bidang lingkungan, saya membantu menjaga kebersihan lingkungan.",
+    "jawaban": "petugas kebersihan"
+  },
+  {
+    "index": 20,
+    "soal": "Saya bekerja di bidang olahraga, saya membantu atlet meningkatkan kinerja mereka.",
+    "jawaban": "pelatih olahraga"
+  },
+  {
+    "index": 21,
+    "soal": "Tugas saya adalah membuat resep obat untuk pasien.",
+    "jawaban": "dokter"
+  },
+  {
+    "index": 22,
+    "soal": "Saya bekerja di bidang seni, saya membuat karya seni.",
+    "jawaban": "seniman"
+  },
+  {
+    "index": 23,
+    "soal": "Tugas saya adalah memeriksa keamanan bangunan.",
+    "jawaban": "inspektur bangunan"
+  },
+  {
+    "index": 24,
+    "soal": "Saya bekerja di bidang komunikasi, saya membantu perusahaan berkomunikasi dengan pelanggan.",
+    "jawaban": "petugas customer service"
+  },
+  {
+    "index": 25,
+    "soal": "Tugas saya adalah membuat perencanaan keuangan untuk perusahaan.",
+    "jawaban": "perencana keuangan"
+  },
+  {
+    "index": 26,
+    "soal": "Saya bekerja di bidang keamanan, saya membantu menjaga keamanan masyarakat.",
+    "jawaban": "polisi"
+  },
+  {
+    "index": 27,
+    "soal": "Tugas saya adalah membuat desain interior untuk rumah dan kantor.",
+    "jawaban": "desainer interior"
+  },
+  {
+    "index": 28,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian.",
+    "jawaban": "guru les"
+  },
+  {
+    "index": 29,
+    "soal": "Tugas saya adalah memeriksa kualitas produk sebelum dipasarkan.",
+    "jawaban": "pengawas kualitas"
+  },
+  {
+    "index": 30,
+    "soal": "Saya bekerja di bidang pariwisata, saya membantu wisatawan menjelajahi kota.",
+    "jawaban": "pemandu wisata"
+  },
+  {
+    "index": 31,
+    "soal": "Tugas saya adalah membuat perencanaan acara untuk perusahaan.",
+    "jawaban": "perencana acara"
+  },
+  {
+    "index": 32,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan jiwa.",
+    "jawaban": "psikiater"
+  },
+  {
+    "index": 33,
+    "soal": "Tugas saya adalah memeriksa keamanan jaringan komputer.",
+    "jawaban": "ahli keamanan jaringan"
+  },
+  {
+    "index": 34,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian internasional.",
+    "jawaban": "guru persiapan ujian internasional"
+  },
+  {
+    "index": 35,
+    "soal": "Tugas saya adalah membuat desain grafis untuk media sosial.",
+    "jawaban": "desainer grafis media sosial"
+  },
+  {
+    "index": 36,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola keuangan mereka.",
+    "jawaban": "manajer keuangan"
+  },
+  {
+    "index": 37,
+    "soal": "Tugas saya adalah memeriksa kualitas air.",
+    "jawaban": "ahli kualitas air"
+  },
+  {
+    "index": 38,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat keras.",
+    "jawaban": "pengembang perangkat keras"
+  },
+  {
+    "index": 39,
+    "soal": "Tugas saya adalah membuat perencanaan strategis untuk perusahaan.",
+    "jawaban": "perencana strategis"
+  },
+  {
+    "index": 40,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan tulang.",
+    "jawaban": "dokter ortopedi"
+  },
+  {
+    "index": 41,
+    "soal": "Tugas saya adalah memeriksa keamanan bangunan.",
+    "jawaban": "inspektur bangunan"
+  },
+  {
+    "index": 42,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk perguruan tinggi.",
+    "jawaban": "guru persiapan ujian masuk perguruan tinggi"
+  },
+  {
+    "index": 43,
+    "soal": "Tugas saya adalah membuat desain interior untuk rumah sakit.",
+    "jawaban": "desainer interior rumah sakit"
+  },
+  {
+    "index": 44,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola investasi mereka.",
+    "jawaban": "manajer investasi"
+  },
+  {
+    "index": 45,
+    "soal": "Tugas saya adalah memeriksa kualitas udara.",
+    "jawaban": "ahli kualitas udara"
+  },
+  {
+    "index": 46,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat lunak untuk perusahaan.",
+    "jawaban": "pengembang perangkat lunak perusahaan"
+  },
+  {
+    "index": 47,
+    "soal": "Tugas saya adalah membuat perencanaan pemasaran untuk perusahaan.",
+    "jawaban": "perencana pemasaran"
+  },
+  {
+    "index": 48,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan mata.",
+    "jawaban": "dokter mata"
+  },
+  {
+    "index": 49,
+    "soal": "Tugas saya adalah memeriksa keamanan jaringan komputer perusahaan.",
+    "jawaban": "ahli keamanan jaringan perusahaan"
+  },
+  {
+    "index": 50,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk sekolah dasar.",
+    "jawaban": "guru persiapan ujian masuk sekolah dasar"
+  },
+  {
+    "index": 51,
+    "soal": "Tugas saya adalah membuat desain grafis untuk iklan.",
+    "jawaban": "desainer grafis iklan"
+  },
+  {
+    "index": 52,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola keuangan mereka.",
+    "jawaban": "manajer keuangan perusahaan"
+  },
+  {
+    "index": 53,
+    "soal": "Tugas saya adalah memeriksa kualitas produk sebelum dipasarkan.",
+    "jawaban": "pengawas kualitas produk"
+  },
+  {
+    "index": 54,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat keras untuk perusahaan.",
+    "jawaban": "pengembang perangkat keras perusahaan"
+  },
+  {
+    "index": 55,
+    "soal": "Tugas saya adalah membuat perencanaan strategis untuk perusahaan.",
+    "jawaban": "perencana strategis perusahaan"
+  },
+  {
+    "index": 56,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan gigi.",
+    "jawaban": "dokter gigi"
+  },
+  {
+    "index": 57,
+    "soal": "Tugas saya adalah memeriksa keamanan bangunan perusahaan.",
+    "jawaban": "inspektur bangunan perusahaan"
+  },
+  {
+    "index": 58,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk perguruan tinggi.",
+    "jawaban": "guru persiapan ujian masuk perguruan tinggi"
+  },
+  {
+    "index": 59,
+    "soal": "Tugas saya adalah membuat desain interior untuk kantor.",
+    "jawaban": "desainer interior kantor"
+  },
+  {
+    "index": 60,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola investasi mereka.",
+    "jawaban": "manajer investasi perusahaan"
+  },
+  {
+    "index": 61,
+    "soal": "Tugas saya adalah memeriksa kualitas udara di perusahaan.",
+    "jawaban": "ahli kualitas udara perusahaan"
+  },
+  {
+    "index": 62,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat lunak untuk perusahaan.",
+    "jawaban": "pengembang perangkat lunak perusahaan"
+  },
+  {
+    "index": 63,
+    "soal": "Tugas saya adalah membuat perencanaan pemasaran untuk perusahaan.",
+    "jawaban": "perencana pemasaran perusahaan"
+  },
+  {
+    "index": 64,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan mata.",
+    "jawaban": "dokter mata"
+  },
+  {
+    "index": 65,
+    "soal": "Tugas saya adalah memeriksa keamanan jaringan komputer perusahaan.",
+    "jawaban": "ahli keamanan jaringan perusahaan"
+  },
+  {
+    "index": 66,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk sekolah dasar.",
+    "jawaban": "guru persiapan ujian masuk sekolah dasar"
+  },
+  {
+    "index": 67,
+    "soal": "Tugas saya adalah membuat desain grafis untuk iklan.",
+    "jawaban": "desainer grafis iklan"
+  },
+  {
+    "index": 68,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola keuangan mereka.",
+    "jawaban": "manajer keuangan perusahaan"
+  },
+  {
+    "index": 69,
+    "soal": "Tugas saya adalah memeriksa kualitas produk sebelum dipasarkan.",
+    "jawaban": "pengawas kualitas produk"
+  },
+  {
+    "index": 70,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat keras untuk perusahaan.",
+    "jawaban": "pengembang perangkat keras perusahaan"
+  },
+  {
+    "index": 71,
+    "soal": "Tugas saya adalah membuat perencanaan strategis untuk perusahaan.",
+    "jawaban": "perencana strategis perusahaan"
+  },
+  {
+    "index": 72,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan gigi.",
+    "jawaban": "dokter gigi"
+  },
+  {
+    "index": 73,
+    "soal": "Tugas saya adalah memeriksa keamanan bangunan perusahaan.",
+    "jawaban": "inspektur bangunan perusahaan"
+  },
+  {
+    "index": 74,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk perguruan tinggi.",
+    "jawaban": "guru persiapan ujian masuk perguruan tinggi"
+  },
+  {
+    "index": 75,
+    "soal": "Tugas saya adalah membuat desain interior untuk kantor.",
+    "jawaban": "desainer interior kantor"
+  },
+  {
+    "index": 76,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola investasi mereka.",
+    "jawaban": "manajer investasi perusahaan"
+  },
+  {
+    "index": 77,
+    "soal": "Tugas saya adalah memeriksa kualitas udara di perusahaan.",
+    "jawaban": "ahli kualitas udara perusahaan"
+  },
+  {
+    "index": 78,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat lunak untuk perusahaan.",
+    "jawaban": "pengembang perangkat lunak perusahaan"
+  },
+  {
+    "index": 79,
+    "soal": "Tugas saya adalah membuat perencanaan pemasaran untuk perusahaan.",
+    "jawaban": "perencana pemasaran perusahaan"
+  },
+  {
+    "index": 80,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan mata.",
+    "jawaban": "dokter mata"
+  },
+  {
+    "index": 81,
+    "soal": "Tugas saya adalah memeriksa keamanan jaringan komputer perusahaan.",
+    "jawaban": "ahli keamanan jaringan perusahaan"
+  },
+  {
+    "index": 82,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk sekolah dasar.",
+    "jawaban": "guru persiapan ujian masuk sekolah dasar"
+  },
+  {
+    "index": 83,
+    "soal": "Tugas saya adalah membuat desain grafis untuk iklan.",
+    "jawaban": "desainer grafis iklan"
+  },
+  {
+    "index": 84,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola keuangan mereka.",
+    "jawaban": "manajer keuangan perusahaan"
+  },
+  {
+    "index": 85,
+    "soal": "Tugas saya adalah memeriksa kualitas produk sebelum dipasarkan.",
+    "jawaban": "pengawas kualitas produk"
+  },
+  {
+    "index": 86,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat keras untuk perusahaan.",
+    "jawaban": "pengembang perangkat keras perusahaan"
+  },
+  {
+    "index": 87,
+    "soal": "Tugas saya adalah membuat perencanaan strategis untuk perusahaan.",
+    "jawaban": "perencana strategis perusahaan"
+  },
+  {
+    "index": 88,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan gigi.",
+    "jawaban": "dokter gigi"
+  },
+  {
+    "index": 89,
+    "soal": "Tugas saya adalah memeriksa keamanan bangunan perusahaan.",
+    "jawaban": "inspektur bangunan perusahaan"
+  },
+  {
+    "index": 90,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk perguruan tinggi.",
+    "jawaban": "guru persiapan ujian masuk perguruan tinggi"
+  },
+  {
+    "index": 91,
+    "soal": "Tugas saya adalah membuat desain interior untuk kantor.",
+    "jawaban": "desainer interior kantor"
+  },
+  {
+    "index": 92,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola investasi mereka.",
+    "jawaban": "manajer investasi perusahaan"
+  },
+  {
+    "index": 93,
+    "soal": "Tugas saya adalah memeriksa kualitas udara di perusahaan.",
+    "jawaban": "ahli kualitas udara perusahaan"
+  },
+  {
+    "index": 94,
+    "soal": "Saya bekerja di bidang teknologi, saya membuat perangkat lunak untuk perusahaan.",
+    "jawaban": "pengembang perangkat lunak perusahaan"
+  },
+  {
+    "index": 95,
+    "soal": "Tugas saya adalah membuat perencanaan pemasaran untuk perusahaan.",
+    "jawaban": "perencana pemasaran perusahaan"
+  },
+  {
+    "index": 96,
+    "soal": "Saya bekerja di bidang kesehatan, saya membantu orang dengan masalah kesehatan mata.",
+    "jawaban": "dokter mata"
+  },
+  {
+    "index": 97,
+    "soal": "Tugas saya adalah memeriksa keamanan jaringan komputer perusahaan.",
+    "jawaban": "ahli keamanan jaringan perusahaan"
+  },
+  {
+    "index": 98,
+    "soal": "Saya bekerja di bidang pendidikan, saya membantu siswa mempersiapkan diri untuk ujian masuk sekolah dasar.",
+    "jawaban": "guru persiapan ujian masuk sekolah dasar"
+  },
+  {
+    "index": 99,
+    "soal": "Tugas saya adalah membuat desain grafis untuk iklan.",
+    "jawaban": "desainer grafis iklan"
+  },
+  {
+    "index": 100,
+    "soal": "Saya bekerja di bidang keuangan, saya membantu perusahaan mengelola keuangan mereka.",
+    "jawaban": "manajer keuangan perusahaan"
+  }
+]
