@@ -1,0 +1,974 @@
+[
+  {
+    "nama_kota": "Jakarta",
+    "deskripsi": "Ibukota Indonesia, terletak di pulau Jawa"
+  },
+  {
+    "nama_kota": "Bandung",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota kembang"
+  },
+  {
+    "nama_kota": "Surabaya",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pahlawan"
+  },
+  {
+    "nama_kota": "Yogyakarta",
+    "deskripsi": "Kota pelajar, terletak di pulau Jawa"
+  },
+  {
+    "nama_kota": "Semarang",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota lumpia"
+  },
+  {
+    "nama_kota": "Makassar",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota daeng"
+  },
+  {
+    "nama_kota": "Medan",
+    "deskripsi": "Kota terbesar di Sumatera Utara, dikenal dengan sebutan kota Melayu"
+  },
+  {
+    "nama_kota": "Palembang",
+    "deskripsi": "Kota terbesar di Sumatera Selatan, dikenal dengan sebutan kota pempek"
+  },
+  {
+    "nama_kota": "Bali",
+    "deskripsi": "Pulau wisata terkenal di Indonesia, dikenal dengan sebutan pulau dewata"
+  },
+  {
+    "nama_kota": "Lombok",
+    "deskripsi": "Pulau wisata terkenal di Nusa Tenggara Barat, dikenal dengan sebutan pulau seribu masjid"
+  },
+  {
+    "nama_kota": "Pontianak",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota Khatulistiwa"
+  },
+  {
+    "nama_kota": "Banjarmasin",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota seribu sungai"
+  },
+  {
+    "nama_kota": "Samarinda",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota air terjun"
+  },
+  {
+    "nama_kota": "Manado",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota Tinutuan"
+  },
+  {
+    "nama_kota": "Kendari",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota wakatobi"
+  },
+  {
+    "nama_kota": "Palu",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota teluk Tomini"
+  },
+  {
+    "nama_kota": "Mamuju",
+    "deskripsi": "Kota terbesar di Sulawesi Barat, dikenal dengan sebutan kota Mandar"
+  },
+  {
+    "nama_kota": "Ternate",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota rempah-rempah"
+  },
+  {
+    "nama_kota": "Ambon",
+    "deskripsi": "Kota terbesar di Maluku, dikenal dengan sebutan kota Manise"
+  },
+  {
+    "nama_kota": "Sorong",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota minyak"
+  },
+  {
+    "nama_kota": "Merauke",
+    "deskripsi": "Kota terbesar di Papua Selatan, dikenal dengan sebutan kota Wasur"
+  },
+  {
+    "nama_kota": "Timika",
+    "deskripsi": "Kota terbesar di Papua Tengah, dikenal dengan sebutan kota Intan Jaya"
+  },
+  {
+    "nama_kota": "Biak",
+    "deskripsi": "Kota terbesar di Papua Utara, dikenal dengan sebutan kota Numfor"
+  },
+  {
+    "nama_kota": "Pekanbaru",
+    "deskripsi": "Kota terbesar di Riau, dikenal dengan sebutan kota madani"
+  },
+  {
+    "nama_kota": "Dumai",
+    "deskripsi": "Kota terbesar di Riau, dikenal dengan sebutan kota pelabuhan"
+  },
+  {
+    "nama_kota": "Bengkulu",
+    "deskripsi": "Kota terbesar di Bengkulu, dikenal dengan sebutan kota pantai panjang"
+  },
+  {
+    "nama_kota": "Jambi",
+    "deskripsi": "Kota terbesar di Jambi, dikenal dengan sebutan kota tempoyak"
+  },
+  {
+    "nama_kota": "Palembang",
+    "deskripsi": "Kota terbesar di Sumatera Selatan, dikenal dengan sebutan kota pempek"
+  },
+  {
+    "nama_kota": "Lampung",
+    "deskripsi": "Kota terbesar di Lampung, dikenal dengan sebutan kota sabang"
+  },
+  {
+    "nama_kota": "Bandar Lampung",
+    "deskripsi": "Kota terbesar di Lampung, dikenal dengan sebutan kota khatulistiwa"
+  },
+  {
+    "nama_kota": "Tangerang",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Serang",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota kasemen"
+  },
+  {
+    "nama_kota": "Cilegon",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota baja"
+  },
+  {
+    "nama_kota": "Bogor",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota hujan"
+  },
+  {
+    "nama_kota": "Sukabumi",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota santri"
+  },
+  {
+    "nama_kota": "Cianjur",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Garut",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota dodol"
+  },
+  {
+    "nama_kota": "Tasikmalaya",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota santri"
+  },
+  {
+    "nama_kota": "Cirebon",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota keraton"
+  },
+  {
+    "nama_kota": "Majalengka",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Kuningan",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Ciamis",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota banjar"
+  },
+  {
+    "nama_kota": "Pangandaran",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Banten",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Pandeglang",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Lebak",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Serang Barat",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tangerang Selatan",
+    "deskripsi": "Kota terbesar di Banten, dikenal dengan sebutan kota metropolitan"
+  },
+  {
+    "nama_kota": "Bekasi",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Depok",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Cimahi",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Bandung Barat",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sumedang",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Subang",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Purwakarta",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Karawang",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Cianjur Selatan",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sukabumi Utara",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Tasikmalaya Selatan",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Ciamis Selatan",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Banjar",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pangandaran Utara",
+    "deskripsi": "Kota terbesar di Jawa Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Cilacap",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Banyumas",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Purbalingga",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Banjarnegara",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Kebumen",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Purworejo",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Wonosobo",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Magelang",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Boyolali",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Klaten",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sukoharjo",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Wonogiri",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Karanganyar",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sragen",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Grobogan",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Blora",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Rembang",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pati",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Kudus",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Jepara",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Demak",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Semarang Barat",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Kendal",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Batang",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pekalongan",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Pemalang",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Tegal",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Brebes",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Purwokerto",
+    "deskripsi": "Kota terbesar di Jawa Tengah, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Banyuwangi",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Situbondo",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Bondowoso",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Jember",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Lumajang",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Probolinggo",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Pasuruan",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sidoarjo",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Mojokerto",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Jombang",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Nganjuk",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Madiun",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Magetan",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Ngawi",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Bojonegoro",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Tuban",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Lamongan",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Gresik",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Bangkalan",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pendidikan"
+  },
+  {
+    "nama_kota": "Sampang",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pamekasan",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Sumenep",
+    "deskripsi": "Kota terbesar di Jawa Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Pontianak",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota Khatulistiwa"
+  },
+  {
+    "nama_kota": "Singkawang",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sintang",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Ketapang",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sambas",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Bengkayang",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Landak",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Mempawah",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sanggau",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Sekadau",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Melawi",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Kapuas Hulu",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Kayong Utara",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Kubu Raya",
+    "deskripsi": "Kota terbesar di Kalimantan Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Banjarmasin",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota seribu sungai"
+  },
+  {
+    "nama_kota": "Banjarbaru",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Martapura",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Marabahan",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Rantau",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Amuntai",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Barabai",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Kandangan",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Paringin",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Tanah Bumbu",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Sampanahan",
+    "deskripsi": "Kota terbesar di Kalimantan Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Samarinda",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota air terjun"
+  },
+  {
+    "nama_kota": "Balikpapan",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota minyak"
+  },
+  {
+    "nama_kota": "Bontang",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sangatta",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota tambang"
+  },
+  {
+    "nama_kota": "Tenggarong",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Kutai Kartanegara",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Pasir",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Penajam Paser Utara",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Berau",
+    "deskripsi": "Kota terbesar di Kalimantan Timur, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Bulungan",
+    "deskripsi": "Kota terbesar di Kalimantan Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tarakan",
+    "deskripsi": "Kota terbesar di Kalimantan Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Nunukan",
+    "deskripsi": "Kota terbesar di Kalimantan Utara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Malikussaleh",
+    "deskripsi": "Kota terbesar di Kalimantan Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tana Tidung",
+    "deskripsi": "Kota terbesar di Kalimantan Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Manado",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota Tinutuan"
+  },
+  {
+    "nama_kota": "Bitung",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tomohon",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Kotamobagu",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Bolaang Mongondow",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Minahasa",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Minahasa Selatan",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Minahasa Tenggara",
+    "deskripsi": "Kota terbesar di Sulawesi Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Makassar",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota daeng"
+  },
+  {
+    "nama_kota": "Parepare",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Palopo",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Bantaeng",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Jeneponto",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Takalar",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Gowa",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Sinjai",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Bone",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Maros",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Pangkajene Kepulauan",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Barru",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Soppeng",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Wajo",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sidenreng Rappang",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pinrang",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Enrekang",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Luwu",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Tana Toraja",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Toraja Utara",
+    "deskripsi": "Kota terbesar di Sulawesi Selatan, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Kendari",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Bau-Bau",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Konawe",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Konawe Selatan",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Konawe Utara",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Kolaka",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Kolaka Utara",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Muna",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Buton",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Buton Utara",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Wakatobi",
+    "deskripsi": "Kota terbesar di Sulawesi Tenggara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Palu",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Donggala",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Tolitoli",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Buol",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Morowali",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Banggai",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Banggai Kepulauan",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Parigi Moutong",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Tojo Una-Una",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Poso",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Sigi",
+    "deskripsi": "Kota terbesar di Sulawesi Tengah, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Gorontalo",
+    "deskripsi": "Kota terbesar di Gorontalo, dikenal dengan sebutan kota serambi Madinah"
+  },
+  {
+    "nama_kota": "Gorontalo Utara",
+    "deskripsi": "Kota terbesar di Gorontalo, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Boalemo",
+    "deskripsi": "Kota terbesar di Gorontalo, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Bone Bolango",
+    "deskripsi": "Kota terbesar di Gorontalo, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Pohuwato",
+    "deskripsi": "Kota terbesar di Gorontalo, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Ambon",
+    "deskripsi": "Kota terbesar di Maluku, dikenal dengan sebutan kota rempah-rempah"
+  },
+  {
+    "nama_kota": "Ternate",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tidore",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Halmahera Barat",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Halmahera Tengah",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Halmahera Timur",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Halmahera Selatan",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Halmahera Utara",
+    "deskripsi": "Kota terbesar di Maluku Utara, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sorong",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Manokwari",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Fakfak",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Kaimana",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Teluk Bintuni",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Teluk Wondama",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Raja Ampat",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Tambrauw",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Maybrat",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Sorong Selatan",
+    "deskripsi": "Kota terbesar di Papua Barat, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Merauke",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Jayawijaya",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Nabire",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Paniai",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Puncak Jaya",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Mimika",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Boven Digoel",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Mappi",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Asmat",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Yahukimo",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Pegunungan Bintang",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Tolikara",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Sarmi",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Keerom",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Waropen",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota industri"
+  },
+  {
+    "nama_kota": "Supiori",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota pertanian"
+  },
+  {
+    "nama_kota": "Biak Numfor",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota wisata"
+  },
+  {
+    "nama_kota": "Jayapura",
+    "deskripsi": "Kota terbesar di Papua, dikenal dengan sebutan kota emas"
+  }
+]
